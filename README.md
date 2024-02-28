@@ -6,6 +6,7 @@
 
  <br>
  <table><tr><td valign="top" width="50%">
+  
   - 👨🏼‍🎓 I hold a Bachelor's degree in **Computer Systems Engineering**
   
 
