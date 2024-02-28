@@ -24,7 +24,7 @@
 
   - ⚡ Fun fact: I wouldn't say I like PHP and Java  
  </td></tr></table>
- ## My Skill Set  
+## My Skill Set  
 <div valign="top" style="display: flex, justify-content: center">
 <div valign="top" width="50%">
  
@@ -55,5 +55,21 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 </div>
 </div>
+<br/>  
 
+![]()  
+  
+
+![]()  
+  
+
+![]()  
+  
+
+<div align="center">
+<a href="https://www.linkedin.com/in/alejandroi%C3%B1iguezortiz/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
 </div>
+
+<br />
